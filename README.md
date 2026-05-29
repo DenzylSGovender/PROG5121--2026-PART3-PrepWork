@@ -183,9 +183,9 @@ Message: It is dinner time!
 
 ## Resource
 
-Baeldung StringBuilder Tutorial:
+StringBuilder Tutorial:
 
-https://www.baeldung.com/java-stringbuilder
+https://www.geeksforgeeks.org/java/stringbuilder-class-in-java-with-examples/
 
 ---
 
@@ -225,7 +225,7 @@ Display the remaining messages after the deletion.
 
 JavaTPoint Arrays:
 
-https://www.javatpoint.com/java-arrays
+https://www.tutorialspoint.com/java/java_arrays.htm
 
 ---
 
@@ -302,10 +302,6 @@ Use a loop so that the menu continues to display until the user chooses Exit.
 
 ## Resource
 
-Oracle JOptionPane Documentation:
-
-https://docs.oracle.com/javase/tutorial/uiswing/components/dialog.html
-
 ---
 
 # Recommended Learning Resources
@@ -320,15 +316,11 @@ https://www.w3schools.com/java/
 
 ## GeeksForGeeks Java Arrays
 
-https://www.geeksforgeeks.org/java-arrays/
+https://www.geeksforgeeks.org/java/arrays-in-java/
 
 ## Programiz Java Programming
 
 https://www.programiz.com/java-programming
-
-## JavaTPoint Arrays
-
-https://www.javatpoint.com/java-array
 
 ## JSON Simple Tutorial
 
