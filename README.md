@@ -90,7 +90,7 @@ Ok, I am leaving without you.
 
 GeeksForGeeks – Searching in Arrays:
 
-https://www.geeksforgeeks.org/search-an-element-in-a-java-array/
+ https://www.geeksforgeeks.org/java/how-to-get-first-element-in-array-in-java/
 
 ---
 
