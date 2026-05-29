@@ -68,7 +68,10 @@ Search for a recipient number within an array.
 Prompt the user to enter a recipient number:
 
 ```java
-String searchRecipient = JOptionPane.showInputDialog("Enter recipient:");
+Scanner scanner = new Scanner(System.in);
+
+System.out.print("Enter recipient: ");
+String searchRecipient = scanner.nextLine();
 ```
 
 Search the recipient array and display all matching messages.
@@ -284,7 +287,7 @@ Combine all Part 3 features into a menu-driven application.
 
 ## Task
 
-Create a menu using JOptionPane.
+Create a menu using Scanner.
 
 ### Example Menu
 
@@ -299,8 +302,6 @@ Create a menu using JOptionPane.
 ```
 
 Use a loop so that the menu continues to display until the user chooses Exit.
-
-## Resource
 
 ---
 
@@ -326,9 +327,6 @@ https://www.programiz.com/java-programming
 
 https://mkyong.com/java/json-simple-how-to-parse-json/
 
-## JOptionPane Documentation
-
-https://docs.oracle.com/javase/tutorial/uiswing/components/dialog.html
 
 ## JUnit 5 Testing
 
